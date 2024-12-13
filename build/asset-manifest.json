@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e02335b.css",
+    "main.js": "/static/js/main.5604f8d9.js",
+    "static/js/453.1e1b3f3f.chunk.js": "/static/js/453.1e1b3f3f.chunk.js",
+    "static/media/bg_2.jpg": "/static/media/bg_2.5a7e9bd756377c93d3cb.jpg",
+    "static/media/about.jpg": "/static/media/about.5cd28c1557bf2afa0cbc.jpg",
+    "static/media/bg_1.jpg": "/static/media/bg_1.9a510843b2c065d17ba6.jpg",
+    "static/media/gallery-3.jpg": "/static/media/gallery-3.850b17397aab8d1f8be4.jpg",
+    "static/media/about-2.jpg": "/static/media/about-2.bbf7074016ef4085032d.jpg",
+    "static/media/gallery-1.jpg": "/static/media/gallery-1.0ed790b6646b37bd87fa.jpg",
+    "static/media/person_6.jpg": "/static/media/person_6.59c745c88baa85e0ceed.jpg",
+    "static/media/image_2.jpg": "/static/media/image_2.f62da358915c30e9a692.jpg",
+    "static/media/image_1.jpg": "/static/media/image_1.38c3b88d523cdcd92c9d.jpg",
+    "static/media/person_7.jpg": "/static/media/person_7.173869f88dfa6a006616.jpg",
+    "static/media/person_5.jpg": "/static/media/person_5.a32ec25aa3d619a9c01f.jpg",
+    "static/media/gallery-4.jpg": "/static/media/gallery-4.650ca7c7c6d9fbacfe9e.jpg",
+    "static/media/image_3.jpg": "/static/media/image_3.da444bcca3785ab5f1d6.jpg",
+    "static/media/person_8.jpg": "/static/media/person_8.d9806b0ec38bef9e6c32.jpg",
+    "static/media/person_2.jpg": "/static/media/person_2.9295e96dcc2125394ac2.jpg",
+    "static/media/person_1.jpg": "/static/media/person_1.3955ff879ea1569e2a70.jpg",
+    "static/media/gallery-2.jpg": "/static/media/gallery-2.2debacc6ab6ac05ab033.jpg",
+    "static/media/8.jpg": "/static/media/8.35ee8919ea545620a475.jpg",
+    "index.html": "/index.html",
+    "main.3e02335b.css.map": "/static/css/main.3e02335b.css.map",
+    "main.5604f8d9.js.map": "/static/js/main.5604f8d9.js.map",
+    "453.1e1b3f3f.chunk.js.map": "/static/js/453.1e1b3f3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e02335b.css",
+    "static/js/main.5604f8d9.js"
+  ]
+}
